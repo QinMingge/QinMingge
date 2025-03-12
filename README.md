@@ -1,4 +1,5 @@
 ## Hi there 👋
+### I am a college student majoring in computer science.
 
 <!--
 **QinMingge/QinMingge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
